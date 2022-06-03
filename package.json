@@ -1,7 +1,6 @@
 {
-  "name": "inbox",
+  "name": "lottery",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -14,5 +13,17 @@
     "mocha": "^10.0.0",
     "solc": "^0.8.14-fixed",
     "web3": "^1.7.3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitamin33/lottery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vitamin33/lottery/issues"
+  },
+  "homepage": "https://github.com/vitamin33/lottery#readme",
+  "description": ""
 }
